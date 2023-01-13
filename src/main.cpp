@@ -1,5 +1,7 @@
-// Benjamin Michael Taylor (bentaylorhk)
-// 2023
+/**
+ * Benjamin Michael Taylor (bentaylorhk)
+ * 2023
+ */
 
 #include <iostream>
 
