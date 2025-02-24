@@ -1,5 +1,5 @@
 # Benjamin Michael Taylor (bentaylorhk)
-# 2023
+# 2025
 
 file (GLOB_RECURSE SOURCES CONFIGURE_DEPENDS ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp)
 
